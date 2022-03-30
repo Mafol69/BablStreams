@@ -4920,7 +4920,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.RestartLayout,
 		C3.Plugins.System.Acts.ResetGlobals,
 		C3.Plugins.VKBridge.Acts.AdsMobile,
-		C3.Plugins.Mouse.Cnds.OnObjectClicked
+		C3.Plugins.Mouse.Cnds.OnObjectClicked,
+		C3.Plugins.VKBridge.Acts.ShowWall
 	];
 };
 self.C3_JsPropNameTable = [
@@ -5180,7 +5181,8 @@ self.C3_ExpressionFuncs = [
 		() => 232,
 		() => 6,
 		() => 20740,
-		() => 812
+		() => 812,
+		() => "Я прошёл Сложнейшее подземелье! Попробуй и ты пройти это невероятное испытание! https://vk.com/app8118948"
 ];
 
 
