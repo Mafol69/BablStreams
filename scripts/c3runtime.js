@@ -5009,6 +5009,7 @@ self.C3_JsPropNameTable = [
 	{Text3: 0},
 	{Text4: 0},
 	{VKBridge: 0},
+	{Text5: 0},
 	{Attack_L: 0},
 	{Checpoint: 0},
 	{Reklama: 0}
